@@ -1,0 +1,66 @@
+#ErrorMessage
+{
+	text-align: center;
+	color: white;
+	background-color: #981515;
+	padding: 5px 20px;
+	-webkit-animation-duration : 1s;
+	-webkit-animation-iteration-count:1;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+#successMsg
+{
+	text-align: center;
+	color: white;
+	background-color: #38a536;
+	padding: 5px 20px;
+	-webkit-animation-duration : 2s;
+	-webkit-animation-iteration-count:1;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+}
+#normalStar
+ {
+        margin:5px 1px;
+    font-size: 23px;
+ }
+ #green
+ {
+  margin:5px 1px;
+    font-size: 23px;
+    color: #237717;
+ }
+ #lightgreen
+ {
+    margin:5px 1px;
+    font-size: 23px;
+    color: #70cc63;
+ }
+ #orange
+ {
+    margin:5px 1px;
+    font-size: 23px;
+    color: #ef8f09;
+ }
+ #lightorange
+ {
+  margin:5px 1px;
+    font-size: 23px;
+    color: #e2b044;
+ }
+ #red
+ {
+  margin:5px 1px;
+    font-size: 23px;
+    color: #ba0514;
+ }
+ .sign_in_title
+ {
+      background-color:#62096d;
+      padding:7px;text-align: center;
+      font-size:30px;
+      font-family: 'Oswald', sans-serif;
+      margin-bottom: 10px;
+      color:white;
+ }
